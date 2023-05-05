@@ -15,3 +15,4 @@
 + Script for scrapping Node(Subreddit) and its features.
 + Script for scrapping edge/Interaction between Nodes(Subreddits) - using hyperlinks present in the top posts in that subreddit
 + Graphical representation of the scrapped nodes and edges along with community detection
++ Used Node2Vec to generate node embeddings
